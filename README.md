@@ -19,7 +19,7 @@ API: RESTful API for communication between frontend and backend
 
 ⚙️ Installation
 Clone the repository:
-git clone https://github.com/your-username/healthcare-system.git
+git clone https://github.com/Enki220/healthcare-system.git
 
 Navigate to the project directory:
 cd healthcare-system

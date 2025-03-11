@@ -1,0 +1,6 @@
+*.log
+build/
+config.json
+*.tmp
+temp/
+debug*
